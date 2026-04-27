@@ -22,6 +22,8 @@ A collection of cryptography algorithms and security concepts implemented in Pyt
 | 14 | **RSA Encryption** | [14_rsa](./14_rsa) |
 | 15 | **Nmap Scanner** | [15_nmap](./15_nmap) |
 | 16 | **SQL Injection Demo** | [16_sql](./16_sql) |
+| 17 | **Diffie-Hellman Key Exchange** | [17_diffie](./17_diffie) |
+| 18 | **MD5 vs SHA-1 Hashing** | [18_md_sha1](./18_md_sha1) |
 
 Each folder contains the Python source code and a detailed README with:
 - 📖 Topic explanation
